@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ANDUM\Documents\Visual Studio 2019\Projects\WritingFileToDiskFast\WritingFileToDiskFast\Source.cpp(90,21): warning C4244: 'argument': conversion from 'ULONGLONG' to 'const unsigned int', possible loss of data
+C:\Users\ANDUM\Documents\Visual Studio 2019\Projects\WritingFileToDiskFast\WritingFileToDiskFast\Source.cpp(96,62): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\ANDUM\Documents\Visual Studio 2019\Projects\WritingFileToDiskFast\WritingFileToDiskFast\Source.cpp(115,62): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\ANDUM\Documents\Visual Studio 2019\Projects\WritingFileToDiskFast\WritingFileToDiskFast\Source.cpp(26,11): warning C4101: 'hRet': unreferenced local variable
+  WritingFileToDiskFast.vcxproj -> C:\Users\ANDUM\Documents\Visual Studio 2019\Projects\WritingFileToDiskFast\Debug\WritingFileToDiskFast.exe
